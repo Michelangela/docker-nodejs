@@ -1,2 +1,3 @@
-# docker-nodejs
-Sandbox for containerizing a Node.s application using React 
+# Sample Node.js application
+
+This repository is a sample Node.js application i.e. a sandbox for Docker's documentation.
