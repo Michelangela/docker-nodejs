@@ -27,7 +27,7 @@ jobs:
         with:
           context: .
           target: test
-          load: true
+          load: false
       -
         name: Build and push
         uses: docker/build-push-action@v5
